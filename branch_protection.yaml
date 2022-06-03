@@ -1,5 +1,6 @@
 optConfig:
+  disableRepoOverride: true
   optOutStrategy: false
   optInRepos:
-    - wait-federalist-build-action
+  - wait-federalist-build-action
 action: issue
