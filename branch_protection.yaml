@@ -3,4 +3,9 @@ optConfig:
   optOutStrategy: false
   optInRepos:
   - wait-federalist-build-action
+enforceDefault: true
+requireApproval: true
+approvalCount: 1
+dismissStale: false
+blockForce: true
 action: issue
