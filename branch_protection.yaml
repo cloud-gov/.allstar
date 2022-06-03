@@ -9,4 +9,4 @@ requireUpToDateBranch: true
 approvalCount: 1
 dismissStale: false
 blockForce: true
-action: fix
+action: issue
