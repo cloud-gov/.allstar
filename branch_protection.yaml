@@ -1,5 +1,5 @@
 optConfig:
   optOutStrategy: false
   optInRepos:
-    - cg-site
+    - wait-federalist-build-action
 action: issue
