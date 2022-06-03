@@ -1,3 +1,5 @@
 optConfig:
   optOutStrategy: false
+  optInRepos:
+    - cg-site
 action: issue
