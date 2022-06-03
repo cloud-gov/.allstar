@@ -7,6 +7,6 @@ enforceDefault: true
 requireApproval: true
 requireUpToDateBranch: true
 approvalCount: 1
-dismissStale: false
+dismissStale: true
 blockForce: true
 action: issue
