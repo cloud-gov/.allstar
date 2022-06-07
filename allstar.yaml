@@ -2,3 +2,4 @@ optConfig:
   disableRepoOverride: true
   optOutStrategy: true
   optOutArchivedRepos: true
+issueRepo: product
