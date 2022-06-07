@@ -1,6 +1,6 @@
 # Allstar configuration for cloud-gov
 
-[Allstar](https://github.com/ossf/allstar) is a security-policy GitHub app. It is
+[Allstar](https://github.com/cloud-gov/allstar) is a security-policy GitHub app. It is
 installed on this org, and this repo contains the configuration for that app. It
 is configured to create issues on repos that do not comply with the configured
 policy.
