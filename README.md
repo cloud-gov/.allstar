@@ -23,3 +23,9 @@ These are the expected settings to be in compliance
 | Approvals required | 1 |
 | Dismiss stale reviews | yes |
 | Block force push | yes |
+
+### [Outside collaborators](outside.yaml)
+
+| | |
+| - | - |
+| Repos with no admins allowed? | no |

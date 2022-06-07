@@ -1,0 +1,4 @@
+optConfig:
+  disableRepoOverride: true
+  optOutStrategy: true
+testingOwnerlessAllowed: false
