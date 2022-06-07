@@ -28,4 +28,5 @@ These are the expected settings to be in compliance
 
 | | |
 | - | - |
-| Repos with no admins allowed? | no |
+| Outside collaborators can have push access | false |
+| Repos with no admins allowed? | false |
