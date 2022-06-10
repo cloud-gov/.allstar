@@ -1,6 +1,8 @@
 optConfig:
   disableRepoOverride: true
-  optOutStrategy: true
+  optOutStrategy: false
+  optInRepos:
+    - wait-federalist-build-action
 enforceDefault: true
 requireApproval: true
 requireUpToDateBranch: true
