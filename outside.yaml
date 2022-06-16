@@ -3,3 +3,4 @@ optConfig:
   optOutStrategy: true
 pushAllowed: false
 testingOwnerlessAllowed: false
+action: issue
