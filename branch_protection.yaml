@@ -8,4 +8,4 @@ approvalCount: 1
 dismissStale: true
 blockForce: true
 requireSignedCommits: true
-action: issue
+action: fix
