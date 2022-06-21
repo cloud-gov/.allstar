@@ -8,4 +8,5 @@ approvalCount: 1
 dismissStale: true
 blockForce: true
 requireSignedCommits: true
+enforceOnAdmins: true
 action: fix
