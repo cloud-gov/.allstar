@@ -7,8 +7,7 @@ policy.
 
 ## Enabled Repos
 
-Allstar is configured in opt-in. [See here for the list of enabled repos](allstar.yaml). Feel
-free to submit a PR to enable/disable repos.
+Allstar is configured to opt-out. Feel free to submit a PR to disable repos.
 
 ## Policy Configuration
 
