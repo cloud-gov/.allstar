@@ -23,6 +23,8 @@ These are the expected settings to be in compliance
 | Approvals required | 1 |
 | Dismiss stale reviews | yes |
 | Block force push | yes |
+| Require signed commits | yes |
+| Enforce settings for admins | yes |
 
 ### [Outside collaborators](outside.yaml)
 
