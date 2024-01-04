@@ -13,6 +13,14 @@ Allstar is configured to opt-out. Feel free to submit a PR to disable repos.
 
 These are the expected settings to be in compliance
 
+### [Admin Requirements](admin.yaml)
+
+|   |   |
+| - | - |
+| Owner-less repositories allowed | false |
+| Teams allowed to be admins | true |
+| Maximum admin teams | 1 |
+
 ### [Branch Protection](branch_protection.yaml)
 
 | | |

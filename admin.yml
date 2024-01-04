@@ -1,0 +1,9 @@
+# Repo admin/owner check
+optConfig:
+  disableRepoOverride: true
+  optOutStrategy: true
+action: issue
+# Policies
+ownerlessAllowed: false
+teamAdminsAllowed: true
+maxNumberAdminTeams: 1
