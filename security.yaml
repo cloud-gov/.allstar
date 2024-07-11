@@ -3,4 +3,5 @@
 optConfig:
   disableRepoOverride: true
   optOutStrategy: true
+  optOutArchivedRepos: true
 action: issue
