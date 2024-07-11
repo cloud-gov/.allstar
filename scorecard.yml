@@ -2,6 +2,7 @@
 optConfig:
   disableRepoOverride: true
   optOutStrategy: true
+  optOutArchivedRepos: true
 action: issue
 # Policies
 # This are documented here: https://github.com/ossf/scorecard/blob/main/docs/checks/internal/checks.yaml
