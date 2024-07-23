@@ -2,7 +2,7 @@
 # Partial implementation of
 # SI-3: Malicious Code Protection
 optConfig:
-  disableRepoOverride: true
+  disableRepoOverride: false
   optOutStrategy: true
   optOutArchivedRepos: true
 action: issue
