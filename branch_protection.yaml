@@ -18,3 +18,4 @@ optOutArchivedRepos: true
 requireApproval: true
 requireSignedCommits: true # SI-7
 requireUpToDateBranch: true
+requireCodeOwnerReviews: true

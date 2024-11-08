@@ -63,6 +63,7 @@ for code to reach `main`.
 | Require approval | yes |
 | Require signed commits | yes |
 | Require up-to-date branch before merge | yes |
+| Require review from CODEOWNERS | yes |
 
 **Compliance**:
 
@@ -73,6 +74,14 @@ for code to reach `main`.
 
 * Follow GitHub's [Branch Protection](https://docs.github.com/en/repositories/configuring-branches-and-merges-in-your-repository/managing-protected-branches/about-protected-branches) guidance
 * If the org-wide settings aren't appropriate for your repository, override the settings in `(repository)/.allstar/branch_protection.yaml`
+
+### [CODEOWNERS](codeowners.yaml)
+
+Detects whether a [CODEOWNERS](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-code-owners) file is provided for a repository.
+
+**Remediation Hints**:
+
+* Add a [CODEOWNERS file](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-code-owners#codeowners-file-location) to the repository
 
 ### [Dangerous Action Workflows](dangerous_workflows.yaml)
 
