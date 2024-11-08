@@ -1,9 +1,0 @@
-# Scorecard Check - Detect in-repo binaries
-# Partial implementation of
-# SI-3: Malicious Code Protection
-optConfig:
-  disableRepoOverride: false
-  optOutStrategy: true
-  optOutArchivedRepos: true
-action: issue
-requireCODEOWNERS: true
